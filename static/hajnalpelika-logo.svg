@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="157.69777mm"
+   height="69.018196mm"
+   viewBox="0 0 157.69777 69.018196"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter904"
+       x="-7.531026e-07"
+       width="1.0000015"
+       y="-2.8354139e-06"
+       height="1.0000057">
+      <feGaussianBlur
+         stdDeviation="4.9065484e-05"
+         id="feGaussianBlur906" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-15.264118,-45.127595)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.4321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.861;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter904)"
+       x="14.392504"
+       y="94.168915"
+       id="text845"
+       transform="scale(0.98571629,1.0144907)"><tspan
+         id="tspan843"
+         x="14.392504"
+         y="94.168915"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.2553px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ff2a2a;stroke:none;stroke-width:0.861;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#ff0000;stroke:#fbedf7;stroke-width:0.861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan863">H</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffffff;stroke:none;stroke-width:0.861;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan861">ajnalpelika</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="49.892857"
+       y="139.85118"
+       id="text869"><tspan
+         id="tspan867"
+         x="49.892857"
+         y="139.85118"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="127.26363"
+       y="111.65499"
+       id="text835-1"><tspan
+         x="127.26363"
+         y="111.65499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nirmala UI';-inkscape-font-specification:'Nirmala UI';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan865-4">Kulturális Egyesület</tspan></text>
+    <path
+       style="opacity:0.999;fill:#ff0000;fill-opacity:1;stroke:#fbedf7;stroke-width:0.882591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path928"
+       d="m 13.890625,59.15327 4.743813,-8.313991 4.743813,-8.31399 4.828221,8.265258 4.82822,8.265258 -9.572034,0.04873 z"
+       transform="matrix(0.78295201,0,0,0.76039699,4.9851053,13.462604)" />
+  </g>
+</svg>
