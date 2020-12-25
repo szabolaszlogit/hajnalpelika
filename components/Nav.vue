@@ -29,28 +29,28 @@
     </div>
 
 <!-- Menu items xs-->  
-    <div class="p-3 hover:text-gray-500"> <a href="#">Home</a></div>
-    <div class="p-3 hover:text-gray-500"> <a href="#" >Home</a></div>
-    <div class="p-3 hover:text-gray-500"> <a href="#">Tevékenység</a></div>
-    <div class="p-3 hover:text-white"> <a href="#">Pályázatok</a></div>
-    <div class="p-3 hover:text-white"> <a href="#">Kapcsolat</a></div>
-    <div class="p-3 hover:text-white"> <a href="#">Facebook</a></div>
+    <div class="p-3 hover:text-gray-500"><NuxtLink to="/">Hajnalpelika</NuxtLink></div>
+    <div class="p-3 hover:text-gray-500"><NuxtLink to="/tevekenyseg">Tevékenység</NuxtLink></div>
+    <div class="p-3 hover:text-white"><NuxtLink to="/adatok">Adatok</NuxtLink></div>
+    <div class="p-3 hover:text-white"><NuxtLink to="/palyazatok">Pályázatok</NuxtLink></div>
+    <div class="p-3 hover:text-white"> <a href="https://www.facebook.com/hajnalpelika"
+     target="_blank">Facebook</a></div>     
 </div>     
 </transition>
 
 <!-- Menu top-->
       <div class=" justify-end text-gray-200 mr-20 hidden md:flex">
-        <div class="p-3 hover:text-white"> <a href="#">Home</a></div>
-        <div class="p-3 hover:text-white"> <a href="#" >Home</a></div>
-        <div class="p-3 hover:text-white"> <a href="#">Tevékenység</a></div>
-        <div class="p-3 hover:text-white"> <a href="#">Pályázatok</a></div>
-        <div class="p-3 hover:text-white"> <a href="#">Kapcsolat</a></div>
-        <div class="p-3 hover:text-white"> <a href="#">Facebook</a></div>
+        <div class="p-3 hover:text-white"><NuxtLink to="/">Hajnalpelika</NuxtLink></div>
+        <div class="p-3 hover:text-white"><NuxtLink to="/tevekenyseg">Tevékenység</NuxtLink></div>
+        <div class="p-3 hover:text-white"><NuxtLink to="/adatok">Adatok</NuxtLink></div>
+        <div class="p-3 hover:text-white"><NuxtLink to="/palyazatok">Pályázatok</NuxtLink></div>
+        <div class="p-3 hover:text-white"> <a href="https://www.facebook.com/hajnalpelika"
+        target="_blank">Facebook</a></div>     
       </div>
     </div>
 
   <header>
-    <div class="container mx-auto bg-blue-700">
+    <div class="container mx-auto  py-8  bg-blue-700">
       <img class="hover:opacity-80 mx-auto max-w-xs" src="/hajnalpelika-logo.svg" alt="hajnalpelika logo">
     </div>
 
